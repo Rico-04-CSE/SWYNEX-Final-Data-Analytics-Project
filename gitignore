@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.secret
+secrets/
+credentials/
+config.local.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel and Microsoft Office temporary files
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+
+# Power BI / temporary / backup files
+*.pbit
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+
+# Generated/local output
+exports/
+output/
+outputs/
+generated/
+
+# Data-science caches and local databases
+.cache/
+*.db
+*.sqlite
+*.sqlite3
+
+# Node.js tooling, if added later
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
