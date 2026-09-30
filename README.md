@@ -1,4 +1,4 @@
-# SWYNEX | Cafe Sales Analytics Case Study
+# SWYNEX | Cafe Sales Analysis Case Study
 
 ## Project Overview
 
